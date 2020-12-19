@@ -1,6 +1,6 @@
 # 3.1JavaKeyValidator
 
-**Отчёт о тестировании <KeyValidator>**
+### **Отчёт о тестировании <KeyValidator>**
 
 *Краткое описание*
 
@@ -11,11 +11,11 @@
 
 **В результате тестирования выявлены следующие дефекты:**
 
-На валидный ключ 80b427f8-92cd-3aae-ba04-3927fbe17c6 выдает результат ***FAIL***
+[На валидный ключ 80b427f8-92cd-3aae-ba04-3927fbe17c6 выдает результат ***FAIL***](https://github.com/Kraus-Artur/3.1JavaKeyValidator/issues/1)
 
-На валидный ключ 387eedc6-12e9-3b32-9881-63b6b5e85317 выдает результат ***FAIL***
+[На валидный ключ 387eedc6-12e9-3b32-9881-63b6b5e85317 выдает результат ***FAIL***](https://github.com/Kraus-Artur/3.1JavaKeyValidator/issues/1)
 
-На невалидный ключ 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1 выдает результат ***OK***
+[На невалидный ключ 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1 выдает результат ***OK***](https://github.com/Kraus-Artur/3.1JavaKeyValidator/issues/2)
 
 
 **Описание процесса тестирования**
